@@ -1,0 +1,38 @@
+{
+  "name": "material-ui-nextjs",
+  "version": "5.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/cache": "latest",
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@lexical/react": "^0.13.1",
+    "@mui/icons-material": "latest",
+    "@mui/material": "latest",
+    "@mui/material-nextjs": "latest",
+    "date-fns": "^3.3.1",
+    "eslint": "latest",
+    "eslint-config-next": "latest",
+    "html-react-parser": "^5.1.8",
+    "lexical": "^0.13.1",
+    "next": "latest",
+    "particles.js": "^2.0.0",
+    "react": "latest",
+    "react-alice-carousel": "^2.8.0",
+    "react-dom": "latest",
+    "react-icons": "^5.0.1",
+    "react-image-file-resizer": "^0.4.8",
+    "react-scroll-trigger": "^0.6.14",
+    "react-slick": "^0.30.2",
+    "react-spring": "^9.7.3",
+    "react-spring-carousel": "^2.0.19",
+    "react-stepper-horizontal": "^1.0.11",
+    "stats.js": "^0.17.0"
+  }
+}
