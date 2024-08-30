@@ -11,7 +11,7 @@ React, Next, Mui
 
 
 
-## Image
+## Image (เป็นแค่ภาพตัวอย่างเท่านั้น ไม่ใช่ทั้งหมดของโปรเจ็ค)
 
 ![Image](https://i.postimg.cc/8PMfqQzb/1111.png)
 
