@@ -1,45 +1,43 @@
-# Material UI - Next.js App Router example
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped using [`create-next-app`](https://github.com/vercel/next.js/tree/HEAD/packages/create-next-app) with Material UI installed.
+# Project Landing Page with Responsive
 
-## How to use
+This project is a landing page website for Pensook. It is a cooperative education project that I worked on using React.js and Next.js, with Material UI for CSS styling. It includes API integration to fetch data from the backend and features a text editor for editing blog content that can be displayed.
 
-Download the example [or clone the repo](https://github.com/mui/material-ui):
 
-<!-- #default-branch-switch -->
+## Tech Stack
 
-```bash
-curl https://codeload.github.com/mui/material-ui/tar.gz/master | tar -xz --strip=2  material-ui-master/examples/material-ui-nextjs
-cd material-ui-nextjs
-```
+React, Next, Mui
 
-Install it and run:
 
-```bash
-npm install
-npm run dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-or:
+## Image
 
-<!-- #default-branch-switch -->
+![Image](https://i.postimg.cc/8PMfqQzb/1111.png)
 
-[![Edit on StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/mui/material-ui/tree/master/examples/material-ui-nextjs)
 
-[![Edit on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/p/sandbox/github/mui/material-ui/tree/master/examples/material-ui-nextjs)
+![Image](https://i.postimg.cc/zDk9p3nw/2222.png)
 
-## Learn more
 
-To learn more about this example:
+![Image](https://i.postimg.cc/zDk9p3nw/2222.png)
 
-- [Next.js documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Customizing Material UI](https://mui.com/material-ui/customization/how-to-customize/) - approaches to customizing Material UI.
 
-## What's next?
+![Image](https://i.postimg.cc/tJDwgmXv/3333.png)
 
-<!-- #default-branch-switch -->
 
-You now have a working example project.
-You can head back to the documentation and continue by browsing the [templates](https://mui.com/material-ui/getting-started/templates/) section.
+![Image](https://i.postimg.cc/SsFw1MTd/4444.png)
+
+
+![Image](https://i.postimg.cc/T3hMKG5V/555.png)
+
+
+![Image](https://i.postimg.cc/wvXnCjnp/6666.png)
+
+
+![Image](https://i.postimg.cc/286XwGjm/9999.png)
+
+
+![Image](https://i.postimg.cc/wxFGLZp0/7777.png)
+
+
+![Image](https://i.postimg.cc/qqmDrhL9/8888.png)
